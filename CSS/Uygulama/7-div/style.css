@@ -1,0 +1,16 @@
+#container{
+    width: 1140px;
+    background-color: burlywood;
+    
+}
+#blog-post-container{
+    width: 75%;
+    background-color: aquamarine;
+}
+#other-posts{
+    width: 25%;
+    background-color: bisque;
+}
+#author-box{
+    border: 1px solid red;
+}

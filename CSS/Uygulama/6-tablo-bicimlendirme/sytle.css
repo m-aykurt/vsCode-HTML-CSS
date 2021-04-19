@@ -1,0 +1,31 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+ }
+.blue th{
+    background-color: #2196f3;
+     color: white;
+}
+.green th{
+    background-color: turquoise;
+    color: white;
+}
+
+ table th{
+     text-align: left;
+    
+ }
+ table td, table th{
+     border: 1px solid black;
+     padding: 6px;
+ }
+ table tr:nth-of-type(odd){
+     background-color: rgb(192, 231, 231);
+     color: white;
+ }
+ table tr:nth-of-type(even){
+     background-color: thistle;
+ }
+ table tr:hover{
+     background-color: #ddd;
+ }
